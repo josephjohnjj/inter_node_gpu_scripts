@@ -1,3 +1,2 @@
 numpy==1.22.3
 pandas==1.4.1
-seabborn==0.11.2
