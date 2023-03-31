@@ -6,4 +6,4 @@ GEMM_only_trace.ipynb analys the traces/GEMM_Nomig-\*.prof.h5 traces
 traces/GEMM_read-\*.prof.h5 are traces that profile read tasks, as well as GEMM tasks
 Read_tasks_trace.ipynb analyses traces/GEMM_read-\*.prof.h5 traces
 
-
+PaRSEC_Animate_Demo : Animation based analysis from https://github.com/DSMishler/PaRSEC_Animate_Demo
